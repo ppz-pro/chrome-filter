@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "PPz",
   "description": "Dark your web pages",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "action": {
     "default_icon": "icon.png"
   },
