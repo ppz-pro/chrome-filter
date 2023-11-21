@@ -1,6 +1,7 @@
 :root {
+  transition: filter .3s;
   filter: invert(1);
 }
-img, svg {
+video, img, svg {
   filter: invert(1);
 }
