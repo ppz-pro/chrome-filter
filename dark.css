@@ -1,6 +1,6 @@
 :root {
   filter: invert(1);
 }
-img {
+img, svg {
   filter: invert(1);
 }
