@@ -1,11 +1,11 @@
 # PPz's chrome filter
 [中文](./readme.zh-cn.md) | English
 
-Dark your web pages.
+Some websites do not have dark mode, this extension is to provide these websites with dark mode.
 
 ## Install
 ##### From chrome web store
-not published
+[click this](https://chromewebstore.google.com/detail/hijebeohkblbdbfmmllpfgneocfhmlao)
 
 ##### From source
 1. Clone the repository
