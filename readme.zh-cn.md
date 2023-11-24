@@ -5,7 +5,7 @@
 
 ## 安装
 ##### 从 chrome 应用商店
-[点这里](https://chromewebstore.google.com/detail/hijebeohkblbdbfmmllpfgneocfhmlao)
+[点这里](https://chromewebstore.google.com/detail/hijebeohkblbdbfmmllpfgneocfhmlao) (对特殊网络有要求)
 
 ##### 从源码
 1. 下载源码
@@ -17,7 +17,7 @@ git clone https://github.com/ppz-pro/chrome-filter
 
 ## 工作原理
 + [暗模式](https://developer.mozilla.org/en-US/docs/Web/CSS/filter)
-+ [chrome 拓展](https://developer.chrome.com/docs/extensions/mv3/getstarted/)
++ chrome 拓展 [介绍](https://developer.chrome.com/docs/extensions/mv3/getstarted/) ｜ [开发文档](https://developer.chrome.com/docs/extensions/mv3/)
 
 ## Unlicense
 [the unlicense](https://unlicense.org)

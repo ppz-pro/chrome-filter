@@ -17,7 +17,7 @@ git clone https://github.com/ppz-pro/chrome-filter
 
 ## How it works
 + [dark mode](https://developer.mozilla.org/en-US/docs/Web/CSS/filter)
-+ [chrome extension](https://developer.chrome.com/docs/webstore/)
++ chrome extension [introduction](https://developer.chrome.com/docs/webstore/) | [dev doc](https://developer.chrome.com/docs/extensions/mv3/)
 
 ## Unlicense
 [the unlicense](https://unlicense.org)
